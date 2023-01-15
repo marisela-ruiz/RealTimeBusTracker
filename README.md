@@ -18,4 +18,4 @@ At the moment the code is not functioning properly. I plan to update and improve
 
 # License
 
-This project is covered by the MIT license. 
+This project is covered by the MIT license. Please see the license file for more info. 
